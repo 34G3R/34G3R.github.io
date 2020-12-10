@@ -43,7 +43,7 @@ function loadPackageInfo() {
 				var ios_ver = iOSVersion();
 				if(ios_ver) {
 					$("#your_ios_").show();
-					$("#your_ios").html("iOS hiện tại : "+ios_ver);
+					$("#your_ios").html("iOS version : "+ios_ver);
 				}
 			}
 			if(decodeResp.changelog) {
