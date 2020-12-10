@@ -1,0 +1,52 @@
+Package: com.3xtc.chatbubbles
+Version: 2.6.7
+Section: Tweaks
+Maintainer: 3xtc
+Depends: mobilesubstrate, firmware (>=12), com.3xtc.chatbubblessms, com.3xtc.chatbubblesmessenger
+Conflicts: com.rpgfarm.kakaoheadsplus, com.rpgfarm.chatbubbleslite
+Architecture: iphoneos-arm
+Filename: ./debs/com.3xtc.chatbubbles.deb
+Size: 334698
+Installed-Size: 1036
+Description: ChatBubbles for Android on iOS.
+Depiction: http://3xtc.github.io/description.htmlid=com.3xtc.chatbubbles
+SileoDepiction: http://3xtc.github.io/description.htmlid=com.3xtc.chatbubbles
+Name: chatbubbles
+Author: Baw Appie <pp121324@gmail.com>
+MD5sum: 3bd32413584af8a5ed1e579ffdd39988
+SHA1: 5e1f619eb47847702d9f3901d670e9dd744f4b44
+SHA256: 72bba1abda589431f02a112c5484d58944d37f1be565f1b08adf067b01c53b2c
+
+Package: com.3xtc.chatbubblesmessenger
+Version: 2.6.7
+Section: extension
+Maintainer: 3xtc
+Depends: mobilesubstrate,com.3xtc.chatbubbles
+Conflicts: com.rpgfarm.kakaoheadsplus
+Architecture: iphoneos-arm
+Filename: ./debs/com.3xtc.chatbubblesmessenger.deb
+Size: 18648
+Installed-Size: 136
+Description: chatbubbles for Messenger.
+Name: chatbubbles Messenger Extension
+Author: Baw Appie <pp121324@gmail.com>
+MD5sum: 8f29be3189693c6896247eeb2a75c98b
+SHA1: 37e5943717b3d76e763206a93e9cf7f48cdd67e9
+SHA256: 4fde53765c98bae880e6c4c0cf2abd144767897b6a7b9a85999068c8c37997d3
+
+Package: com.3xtc.chatbubblessms
+Version: 2.6.7
+Section: extension
+Maintainer: 3xtc
+Depends: mobilesubstrate, com.3xtc.chatbubbles
+Conflicts: com.rpgfarm.kakaoheadsplus
+Architecture: iphoneos-arm
+Filename: ./debs/com.3xtc.chatbubblessms.deb
+Size: 18252
+Installed-Size: 136
+Description: chatbubbles for SMS/iMessage.
+Name: chatbubbles SMS/iMessage Extension
+Author: Baw Appie <pp121324@gmail.com>
+MD5sum: b90ce9faf766e6b7208608f31c88073e
+SHA1: 16b2d66c2cb261bbeca38bdbdda8c4983f325f54
+SHA256: a74690d01af9a946a66c106d9e4cc76eda25ea070e416188cd9cee48934a8ff3

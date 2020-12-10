@@ -18,7 +18,7 @@ function loadPackageInfo() {
 		cache: false,
 		crossDomain: true,
 		success: function (returnhtml) {
-			$("#tweakStatusInfo").show();
+			$("#tweakStatusInfo").hide();
 			var decodeResp = eval('('+returnhtml+')');
 			if(decodeResp.name) {
 				document.title = decodeResp.name;
@@ -43,7 +43,7 @@ function loadPackageInfo() {
 				var ios_ver = iOSVersion();
 				if(ios_ver) {
 					$("#your_ios_").show();
-					$("#your_ios").html("iOS version : "+ios_ver);
+					$("#your_ios").html("iOS hiện tại : "+ios_ver);
 				}
 			}
 			if(decodeResp.changelog) {
