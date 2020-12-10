@@ -1,8 +1,8 @@
 Package: com.3xtc.chatbubbles
 Version: 2.6.7
-Section: Tweaks
+Section: tweaks
 Maintainer: 3xtc
-Depends: mobilesubstrate, firmware (>=12),
+Depends: mobilesubstrate, firmware (>=12)
 Conflicts: com.rpgfarm.kakaoheadsplus, com.rpgfarm.chatbubbleslite
 Architecture: iphoneos-arm
 Filename: ./debs/com.3xtc.chatbubbles.deb
@@ -19,7 +19,7 @@ Package: com.3xtc.chatbubblesmessenger
 Version: 2.6.7
 Section: extension
 Maintainer: 3xtc
-Depends: mobilesubstrate,
+Depends: mobilesubstrate
 Conflicts: com.rpgfarm.kakaoheadsplus
 Architecture: iphoneos-arm
 Filename: ./debs/com.3xtc.chatbubblesmessenger.deb
@@ -36,7 +36,7 @@ Package: com.3xtc.chatbubblessms
 Version: 2.6.7
 Section: extension
 Maintainer: 3xtc
-Depends: mobilesubstrate,
+Depends: mobilesubstrate, com.3xtc.chatbubbles
 Conflicts: com.rpgfarm.kakaoheadsplus
 Architecture: iphoneos-arm
 Filename: ./debs/com.3xtc.chatbubblesms.deb
