@@ -18,7 +18,7 @@ function loadPackageInfo() {
 		cache: false,
 		crossDomain: true,
 		success: function (returnhtml) {
-			$("#tweakStatusInfo").hide();
+			$("#tweakStatusInfo").show();
 			var decodeResp = eval('('+returnhtml+')');
 			if(decodeResp.name) {
 				document.title = decodeResp.name;
