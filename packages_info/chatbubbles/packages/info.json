@@ -5,7 +5,7 @@
   "version": "2.6.7",
   "dependency": "mobilesubstrate, firmware (>=12), com.3xtc.chatbubblessms, com.3xtc.chatbubblesmessenger, com.3xtc.callbubbles",
   "minOSVersion": "13.0",
-  "maxOSVersion": "14.2",
+  "maxOSVersion": "14.2.0",
   "otheriOS": "untested",
   "description": "<div>ChatBubbles for IOS. <br> <br> • ChatBubbles is a Tweak to get ChatHeads on IOS. From Messenger to iMessage/Sms  - this is still in early stages but will be updated eventually, with more features, bug fixes & increased stability. so far it is only avalible to IOS 13-14.2, i recommend downloading CallBubbles as its the same but works with calls. <br> <br> • so far CallBubble only supports calls and iMessage/Facetime but soon will have Messenger support• <br> <br> • ChatBubbles has minor issues which i will list here with fix. <br> <br> • once installed if you recieve a call and your not in messenger it will infinite respring. or if you close the bubble while one comes through. <br> <br> • . <br> <br> • FIX • <br> <br> • Force respring using computer either terminal or app or force into safemode. <br> <br> • once i have found a fix i will update, you can try use tweaks similar to lifegaurd to try respring/force safemode using volume buttons so far i havent found a tweak that works but it is possible so do try.</div>",
   "changelog": {
