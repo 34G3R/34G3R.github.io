@@ -67,7 +67,7 @@ $(document).ready(function () {
 
     var dPackage = getParameterByName("p");
     if (!dPackage) {
-        $(".package-error").text("Dữ liệu code text by Tqm-Mos !").css("display", "block");
+        $(".package-error").text("Data code text by 3xtc !").css("display", "block");
         $(".package-info").css("display", "none");
         $(".package-name").text("Not Found");
         return;
@@ -80,7 +80,7 @@ $(document).ready(function () {
         var currentVersion = iOSVersion();
         if (typeof currentVersion === 'undefined' &&
             (typeof data.minOSVersion !== 'undefined' || typeof(data.maxOSVersion) !== 'undefined')) {
-            var result = "<strong>Hỗ trợ phiên bản ";
+            var result = "<strong>Version support ";
 
             if (typeof data.minOSVersion != 'undefined') {
                 result += data.minOSVersion;
@@ -97,11 +97,11 @@ $(document).ready(function () {
             var result = "";
             var supported = isCurrentVersionSupported(currentVersion, data.minOSVersion, data.maxOSVersion);
             if (supported) {
-                result += "Phiên bản hiện tại (" + currentVersion + ") đã tương thích</strong> &#x1F60D;";
+                result += "Current version (" + currentVersion + ") already compatible</strong> &#x1F60D;";
                 // $(".version-check").css("color", "green");
                 $(".panel-body.version-check").css("background-color", "#4DE447");
             } else{
-                result += "Phiên bản hiện tại <strong>không hỗ trợ</strong>&#x2620;";
+                result += "Current version <strong>No support</strong>&#x2620;";
                 result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
                 result += " &#x1F914;";
                 $(".panel-body.version-check").css("background-color", "#ffcc00");
@@ -166,7 +166,7 @@ $(document).ready(function () {
 
         var links = data.links;
         var extra = {
-            "<img class=\"icon\" src=\"icons/twitter.png\"><span>Find me on Twitter (@tqmmos)</span>": "https://twitter.com/tqmmos",
+            "<img class=\"icon\" src=\"icons/twitter.png\"><span>Find me on Twitter (@cFD45995540)</span>": "https://twitter.com/cFD45995540",
             "<img class=\"icon\" src=\"icons/email.png\"><span>Send me an email</span>": "mailto:anhminh311105@gmail.com",
             "<img class=\"icon\" src=\"icons/like.png\"><span>Buy me a &#x1F37A; via <span style=\"font-style:italic;font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal</strong></span></span>": "https://paypal.me/tranquangminh2202"
         };
