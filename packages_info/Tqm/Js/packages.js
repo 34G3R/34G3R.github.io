@@ -97,7 +97,7 @@ $(document).ready(function () {
             var result = "";
             var supported = isCurrentVersionSupported(currentVersion, data.minOSVersion, data.maxOSVersion);
             if (supported) {
-                result += "Current version (" + currentVersion + ") already compatible</strong> &#x1F60D;";
+                result += "Current version (" + currentVersion + ") Is compatible</strong> &#x1F60D;";
                 // $(".version-check").css("color", "green");
                 $(".panel-body.version-check").css("background-color", "#4DE447");
             } else{
