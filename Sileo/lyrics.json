@@ -32,7 +32,7 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{152, 332}",
+          "itemSize": "{2,176, 104}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
@@ -91,7 +91,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "912 KB",
+          "text": "2176.014 MB",
           "title": "Capacity"
         },
         {
