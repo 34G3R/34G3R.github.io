@@ -102,3 +102,23 @@ Author: ɛvɪɗɛηт <email@gmail.com>
 MD5sum: bf0ef31a9c9bdf8c0139173546364e5d
 SHA1: e4291fa946741d0bd78408ba28197beaf91e5f41
 SHA256: fb64ff90f323774a042c969dfbb8beb0bc416e9e178865f377494578ac7f9e98
+
+Package: com.3xtc.lyrics
+Name: Lyrics
+Depends: mobilesubstrate, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: Live Lyrics for music
+Maintainer: 3xtc
+Author: 3xtc
+Section: Tweaks
+Version: 2.6.7
+Filename: ./debs/com.3xtc.lyrics_2.6.7_iphoneos-arm.deb
+Size: 271330
+Installed-Size: 912
+Icon: https://3xtc.github.io/packages_info/screenshots/lyrics1.png
+Homepage: https://3xtc.github.io
+Sileodepiction: https://3xtc.github.io/Sileo/lyrics.json
+Depiction: https://3xtc.github.io/packages_info/lyrics/?p=info
+MD5sum: bf0ef31a9c9bdf8c0139173546364e5d
+SHA1: e4291fa946741d0bd78408ba28197beaf91e5f41
+SHA256: fb64ff90f323774a042c969dfbb8beb0bc416e9e178865f377494578ac7f9e98
