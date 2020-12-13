@@ -113,7 +113,6 @@ Author: 3xtc
 Section: Tweaks
 Version: 2.6.7
 Filename: ./debs/com.3xtc.lyrics_2.6.7_iphoneos-arm.deb
-Conflicts: 
 Size: 2176014
 Installed-Size: 952
 Icon: https://3xtc.github.io/packages_info/screenshots/lyrics1.png
