@@ -107,7 +107,7 @@ Package: com.3xtc.lyrics
 Name: Lyrics
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
-Description: Live Lyrics for music
+Description: Live Lyrics on screen
 Maintainer: 3xtc
 Author: 3xtc
 Section: Tweaks
