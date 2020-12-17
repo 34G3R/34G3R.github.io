@@ -126,21 +126,21 @@ SHA256: 1643e2525c74bf82adabdeb96cd2a6ae292f5c3d969c5344c59e237a38f4794b
 Package: com.3xtc.afsocial
 Name: AFSocial
 Depends: mobilesubstrate
-Conflicts: 
-Remove: 
+Conflicts: co.azozzalfiras.afsocial, co.azozzalfiras.azflibrary
+Replaces: sileot.afsocial 
 Architecture: iphoneos-arm
-Description: 
+Description: Add more features to social networking applications.
 Maintainer: 3xtc
 Author: 3xtc
 Section: Tweaks
 Version: 1.2.2
 Filename: ./debs/com.3xtc.afsocial_1.2.2_iphoneos-arm.deb
-Size: 2080218
-Installed-Size: 952
-Icon: https://3xtc.github.io/packages_info/screenshots/AfSocial1.png
+Size: 4216426
+Installed-Size: 6500
+Icon: https://3xtc.github.io/packages_info/screenshots/AFSocial1.png
 Homepage: https://3xtc.github.io
 Sileodepiction: https://3xtc.github.io/Sileo/AFSocial.json
 Depiction: https://3xtc.github.io/packages_info/AFSocial/?p=info
-MD5sum: 
-SHA1: 
-SHA256: 
+MD5sum: 1a939652359ef7e82ae738bd44143251
+SHA1: 26783bffba9135298b299869fc28a04cda52ec5e
+SHA256: 701066470c81d6420ba3d49a7b5cd90d6fd2df2c037da1c348a357dda3dd60c7
