@@ -76,7 +76,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.2.2",
+          "text": "2.6.7",
           "title": "Version"
         },
         {
@@ -91,7 +91,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "4216426 Bytes",
+          "text": "3437526 Bytes",
           "title": "Capacity"
         },
         {
