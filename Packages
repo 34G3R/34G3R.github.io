@@ -145,9 +145,9 @@ Icon: https://3xtc.github.io/packages_info/screenshots/AFSocial1.png
 Homepage: https://3xtc.github.io
 Sileodepiction: https://3xtc.github.io/Sileo/AFSocial.json
 Depiction: https://3xtc.github.io/packages_info/AFSocial/?p=info
-MD5sum: 65e5e0fb84f0b1cba9a1f8b2cb29645c
-SHA1: 3864928899eb63eb0f87a86ba4fa15270267a1a6
-SHA256: 93f78a12016870cec71c5081cae6d337e4f477c62010eb46121974230702ea92
+MD5sum: 1a939652359ef7e82ae738bd44143251
+SHA1: 26783bffba9135298b299869fc28a04cda52ec5e
+SHA256: 701066470c81d6420ba3d49a7b5cd90d6fd2df2c037da1c348a357dda3dd60c7
 
 Package: com.3xtc.adguardpro
 Name: Adguard Pro
