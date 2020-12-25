@@ -1,0 +1,22 @@
+{
+  "name": "Adguard Pro",
+  "package": "com.3xtc.adguardpro",
+  "author": "ɛvɪɗɛηт",
+  "version": "2.6.7",
+  "dependency": "mobilesubstrate (>= 0.9.5000)",
+  "minOSVersion": "10.0",
+  "maxOSVersion": "14.2",
+  "otheriOS": "untested",
+  "description": "<div>adguard pro. <br> <br> • this Tweak to will give Pro features :) no configuration needed just install.</div>",
+  "changelog": {
+    "2.6.7": [
+      "Adguard Pro Unlocked."
+    ]
+  },
+  "screenshots": {
+    "adguardpro1.png": "",
+    "adguardpro2.png": "",
+    "adguardpro3.png": ""
+  },
+  "links": {}
+}
