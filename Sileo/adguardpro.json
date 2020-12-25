@@ -17,7 +17,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:25pt;\">adguard pro. <br> <br> • this Tweak to will give Pro features :) no configuration needed just install.</p>",
+          "markdown": "<p style=\"font-size:25pt;\">adguard pro. <br> <br> • this Tweak will give you Pro features :) no configuration needed just install.</p>",
           "useRawFormat": true
         },
         {
@@ -81,7 +81,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS10.0 - 14.2",
+          "text": "iOS10.0 - 14.2.0",
           "title": "Support"
         },
         {
