@@ -148,3 +148,23 @@ Depiction: https://3xtc.github.io/packages_info/AFSocial/?p=info
 MD5sum: 1a939652359ef7e82ae738bd44143251
 SHA1: 26783bffba9135298b299869fc28a04cda52ec5e
 SHA256: 701066470c81d6420ba3d49a7b5cd90d6fd2df2c037da1c348a357dda3dd60c7
+
+Package: com.3xtc.adguardpro
+Name: Adguard Pro
+Depends: mobilesubstrate (>= 0.9.5000) 
+Architecture: iphoneos-arm
+Description: Adguard pro Unlocked.
+Maintainer: 3xtc
+Author: ɛvɪɗɛηт
+Section: Tweaks
+Version: 2.6.7
+Filename: ./debs/com.3xtc.adguardpro.deb
+Size: 4606
+Installed-Size: 136
+Icon: https://3xtc.github.io/packages_info/screenshots/adguardpro1.png
+Homepage: https://3xtc.github.io
+Sileodepiction: https://3xtc.github.io/Sileo/adguardpro.json
+Depiction: https://3xtc.github.io/packages_info/adguardpro/?p=info
+MD5sum: a6c2b61999bef7ab2feccd7a73771e40
+SHA1: 5e33c53362298b565915d88031ef545ef2e9e30b
+SHA256: 3b5b43b2075954b5413b7462470eee11c40e03989da5d4bf3bb9061796e26823
