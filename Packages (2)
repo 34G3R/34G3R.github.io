@@ -135,11 +135,11 @@ Replaces: sileot.afsocial
 Architecture: iphoneos-arm
 Description: Add more features to social networking applications.
 Maintainer: 3xtc
-Author: ɛvɪɗɛηт
+Author: 3xtc
 Section: Tweaks
 Version: 2.6.7
 Filename: ./debs/com.3xtc.afsocial.deb
-Size: 3437526 Bytes
+Size: 4216426 Bytes
 Installed-Size: 6500
 Icon: https://3xtc.github.io/packages_info/screenshots/AFSocial1.png
 Homepage: https://3xtc.github.io
