@@ -168,3 +168,165 @@ Depiction: https://3xtc.github.io/packages_info/adguardpro/?p=info
 MD5sum: a6c2b61999bef7ab2feccd7a73771e40
 SHA1: 5e33c53362298b565915d88031ef545ef2e9e30b
 SHA256: 3b5b43b2075954b5413b7462470eee11c40e03989da5d4bf3bb9061796e26823
+
+Package: com.3xtc.ultrazoom
+Name: UltraZoom
+Depends: firmware (>= 11.0.0) 
+Architecture: iphoneos-arm
+Description: 20x.
+Maintainer: 3xtc
+Author: ɛvɪɗɛηт
+Section: Tweaks
+Version: 2.6.7
+Filename: ./debs/com.3xtc.ultrazoom_2.6.7_iphoneos-arm.deb
+Size: 3176
+Installed-Size: 68
+Icon: https://3xtc.github.io/packages_info/screenshots/ultrazoom1.png
+Homepage: https://3xtc.github.io
+Sileodepiction: https://3xtc.github.io/Sileo/ultrazoom.json
+Depiction: https://3xtc.github.io/packages_info/ultrazoom/?p=info
+MD5sum: 690800cd8413c5e6f1f5132b941dcfdf
+SHA1: 2d2b52bac02332231cb74240088c53b0abcbb4f2
+SHA256: 911838c68c0aadcc228f8759f210a9ea5108b6ec267ab005023a68361b5578b7
+
+Package: com.3xtc.libhdev
+Name: libhdev
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
+Architecture: iphoneos-arm 
+Maintainer: 3xtc
+Author: ɛvɪɗɛηт
+Section: System
+Version: 2.6.7
+Filename: ./debs/com.3xtc.libhdev_2.6.7_iphoneos-arm.deb
+Size: 72158
+Tag: role::developer
+Installed-Size: 380
+Icon: https://3xtc.github.io/packages_info/screenshots/libhdev1.png
+Homepage: https://3xtc.github.io
+Sileodepiction: https://3xtc.github.io/Sileo/libhdev.json
+Depiction: https://3xtc.github.io/packages_info/libhdev/?p=info
+MD5sum: 4e3f54a1f2e71f5c4c3727781d9cf195
+SHA1: 58cfb60bdf425e347c1d4f0057f4f425690880e9
+SHA256: 193d318c1ed9d0dcf00028e3e1d674aa6a5f2af3cb5edd694a60b1ea88baa620
+
+Package: com.3xtc.tiktokgod
+Name: TikTok God
+Depends: mobilesubstrate, preferenceloader, com.3xtc.libhdev (>= 4.5.0), firmware (>= 10)
+Architecture: iphoneos-arm
+Description: The best tweaks for TikTok app
+Maintainer: 3xtc
+Author: ɛvɪɗɛηт
+Section: Tweaks
+Version: 2.6.7
+Filename: ./debs/com.3xtc.tiktokgod_2.6.7_iphoneos-arm.deb
+Size: 73926
+Installed-Size: 412
+Icon: https://3xtc.github.io/packages_info/screenshots/tiktokgod1.png
+Homepage: https://3xtc.github.io
+Sileodepiction: https://3xtc.github.io/Sileo/tiktokgod.json
+Depiction: https://3xtc.github.io/packages_info/tiktokgod/?p=info
+MD5sum: 7edb5dbff9723d70179b8ae9138267ec
+SHA1: 5b5cc34078cd5ce3c00ad8b1500e3184c47a6d04
+SHA256: 92bc1814f2b0c1fcf17954631f4bcea50a484dc7b5c56cb8bda2f90012d6494d
+
+Package: com.3xtc.redditnoads
+Name: Reddit No Ads
+Depends: mobilesubstrate, preferenceloader, com.3xtc.libhdev (>= 2.0.0), firmware (>= 10)
+Architecture: iphoneos-arm
+Conflicts: com.haoict.redditnoads
+Description: tweaks for reddit
+Maintainer: 3xtc
+Author: ɛvɪɗɛηт
+Section: Tweaks
+Version: 2.6.7
+Filename: ./debs/com.3xtc.redditnoads_2.6.7_iphoneos-arm.deb
+Size: 228592
+Installed-Size: 640
+Icon: https://3xtc.github.io/packages_info/screenshots/redditnoads1.png
+Homepage: https://3xtc.github.io
+Sileodepiction: https://3xtc.github.io/Sileo/redditnoads.json
+Depiction: https://3xtc.github.io/packages_info/redditnoads/?p=info
+MD5sum: 483cf00c5a95d9ac2601becdd2feabe6
+SHA1: c4312c93ae731325bdc9c0320ae42fe8bcf2263c
+SHA256: 4377088612d83b5463d9fab2bcad7a5271b64bcd6d8cdee2c82aeecdee78627d
+
+Package: com.3xtc.facebooknoads
+Name: Facebook No Ads
+Depends: mobilesubstrate, preferenceloader, com.3xtc.libhdev (>= 4.5.0), firmware (>= 10)
+Architecture: iphoneos-arm
+Description: Tweaks for Facebook
+Maintainer: 3xtc
+Author: ɛvɪɗɛηт
+Section: Tweaks
+Version: 2.6.7
+Filename: ./debs/com.3xtc.facebooknoads_2.6.7_iphoneos-arm.deb
+Size: 269696
+Installed-Size: 584
+Icon: https://3xtc.github.io/packages_info/screenshots/facebooknoads1.png
+Homepage: https://3xtc.github.io
+Sileodepiction: https://3xtc.github.io/Sileo/facebooknoads.json
+Depiction: https://3xtc.github.io/packages_info/facebooknoads/?p=info
+MD5sum: 88528fbbae13e0456e214608ff51af99
+SHA1: 6c6b783caba3c8157dcef30c19b8a47eb12982ca
+SHA256: e756b9ba8caf9709e393e07f77fbdd3323b26447515b26ca549d0eb51a080577
+
+Package: com.3xtc.twitchnoads
+Name: Twitch No Ads
+Depends: mobilesubstrate, preferenceloader, com.3xtc.libhdev (>= 4.1.0), firmware (>= 10)
+Architecture: iphoneos-arm
+Description: Tweaks for Twitch
+Maintainer: 3xtc
+Author: ɛvɪɗɛηт
+Section: Tweaks
+Version: 2.6.7
+Filename: ./debs/com.3xtc.twitchnoads_2.6.7_iphoneos-arm.deb
+Size: 327072
+Installed-Size: 624
+Icon: https://3xtc.github.io/packages_info/screenshots/twitchnoads1.png
+Homepage: https://3xtc.github.io
+Sileodepiction: https://3xtc.github.io/Sileo/twitchnoads.json
+Depiction: https://3xtc.github.io/packages_info/twitchnoads/?p=info
+MD5sum: e6d5828371adb1ca2a1f6e48a3df0ad0
+SHA1: 8378a2cd9b160001e045a63a708d88dba7807064
+SHA256: 0a79e101a9b7499283204af784e0b7cfc568d059c97a46719cbf16b7a49174f4
+
+Package: com.3xtc.instanoads
+Name: Instagram Tweaks
+Depends: mobilesubstrate, preferenceloader, com.3xtc.libhdev (>= 4.5.0), firmware (>= 10)
+Architecture: iphoneos-arm
+Description: Tweaks for Instagram
+Conflicts: com.haoict.instanoads
+Maintainer: 3xtc
+Author: ɛvɪɗɛηт
+Section: Tweaks
+Version: 2.6.7
+Filename: ./debs/com.3xtc.instanoads_2.6.7_iphoneos-arm.deb
+Size: 343420
+Installed-Size: 648
+Icon: https://3xtc.github.io/packages_info/screenshots/instanoads1.png
+Homepage: https://3xtc.github.io
+Sileodepiction: https://3xtc.github.io/Sileo/instanoads.json
+Depiction: https://3xtc.github.io/packages_info/instanoads/?p=info
+MD5sum: 3516f54ac84d67f7ee1718e70f4cac6c
+SHA1: 2db3be6f0c378eb9e0d875f681a6bfc7931e52af
+SHA256: 8ba60067c63656449fb4d0f1fb240c1070651a52888e6caf3cf2c1279b1df313
+
+Package: com.3xtc.messengernoads
+Name: Messenger No Ads
+Depends: mobilesubstrate, com.3xtc.libhdev (>= 4.5.0), firmware (>= 10)
+Architecture: iphoneos-arm
+Description: The best tweaks for Messenger app.
+Maintainer: 3xtc
+Author: ɛvɪɗɛηт
+Section: Tweaks
+Version: 2.6.7
+Filename: ./debs/com.3xtc.messengernoads_2.6.7_iphoneos-arm.deb
+Size: 582140
+Installed-Size: 972
+Icon: https://3xtc.github.io/packages_info/screenshots/messengernoads1.png
+Homepage: https://3xtc.github.io
+Sileodepiction: https://3xtc.github.io/Sileo/messengernoads.json
+Depiction: https://3xtc.github.io/packages_info/messengernoads/?p=info
+MD5sum: 28d8e35ea952ae5b6a01ce8a96b6fd47
+SHA1: 1744a839787b2f8722155a729870e520b0dd248b
+SHA256: eb86f95b8bcb78da61003ddd782351e3990bcc403daf65607db9ed90120742b2
