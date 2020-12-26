@@ -2,7 +2,7 @@
   "name": "AFSocial",
   "package": "com.3xtc.afsocial",
   "author": "ɛvɪɗɛηт",
-  "version": "1.2.2",
+  "version": "2.6.7",
   "dependency": "mobilesubstrate",
   "minOSVersion": "11.0",
   "maxOSVersion": "14.2.0",
