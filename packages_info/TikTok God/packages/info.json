@@ -1,0 +1,22 @@
+{
+  "name": "TikTok God",
+  "package": "com.3xtc.tiktokgod",
+  "author": "ɛvɪɗɛηт",
+  "version": "2.6.7",
+  "dependency": "mobilesubstrate, preferenceloader, com.3xtc.libhdev (>= 4.5.0), firmware (>= 10)",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "14.2.0",
+  "otheriOS": "untested",
+  "description": "<div>tiktok tweaks <br> <br> • The best tweaks personally for TikTok app.</div>",
+  "changelog": {
+    "2.6.7": [
+      "initial release"
+    ]
+  },
+  "screenshots": {
+    "TikTok God1.png": "",
+    "TikTok God2.png": "",
+    "TikTok God3.png": ""
+  },
+  "links": {}
+}
