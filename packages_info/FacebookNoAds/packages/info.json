@@ -1,0 +1,22 @@
+{
+  "name": "Facebook No Ads",
+  "package": "com.3xtc.facebooknoads",
+  "author": "ɛvɪɗɛηт",
+  "version": "2.6.7",
+  "dependency": "mobilesubstrate",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "14.2.0",
+  "otheriOS": "untested",
+  "description": "<div>Tweaks for Facebook<br> <br>some well worth facebook tweaks</div>",
+  "changelog": {
+    "2.6.7": [
+      "initial release"
+    ]
+  },
+  "screenshots": {
+    "Facebook No Ads1.png": "",
+    "Facebook No Ads2.png": "",
+    "Facebook No Ads3.png": ""
+  },
+  "links": {}
+}

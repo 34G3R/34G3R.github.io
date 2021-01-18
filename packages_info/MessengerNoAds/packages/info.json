@@ -1,0 +1,22 @@
+{
+  "name": "Messenger No Ads",
+  "package": "com.3xtc.messengernoads",
+  "author": "ɛvɪɗɛηт",
+  "version": "2.6.7",
+  "dependency": "mobilesubstrate, com.3xtc.libhdev (>= 4.5.0), firmware (>= 10)",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "14.2.0",
+  "otheriOS": "untested",
+  "description": "<div>The best tweaks for Messenger app.<br> <br> no more seen , no more ads , save storys,images & more </div>",
+  "changelog": {
+    "2.6.7": [
+      "initial release"
+    ]
+  },
+  "screenshots": {
+    "Messenger No Ads1.png": "",
+    "Messenger No Ads2.png": "",
+    "Messenger No Ads3.png": ""
+  },
+  "links": {}
+}

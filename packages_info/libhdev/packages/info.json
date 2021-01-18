@@ -1,0 +1,22 @@
+{
+  "name": "libhdev",
+  "package": "com.3xtc.libhdev",
+  "author": "ɛvɪɗɛηт",
+  "version": "2.6.7",
+  "dependency": "mobilesubstrate, preferenceloader, firmware (>= 10)",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "14.2.0",
+  "otheriOS": "untested",
+  "description": "<div>needed for tweaks to work</div>",
+  "changelog": {
+    "2.6.7": [
+      "inital release."
+    ]
+  },
+  "screenshots": {
+    "libhdev1.png": "",
+    "libhdev2.png": "",
+    "libhdev3.png": ""
+  },
+  "links": {}
+}
