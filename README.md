@@ -2,15 +2,30 @@ welcome to my repo made by myself
 evident - 3xtc
 
 in this  repo contains my own:
+
+
 personally Coded,
-Cracked 
+
+
+Cracked
+
+
 &
+
+
 Pirated.
+
+
 Tweaks
 
-I cannot afford server & dont know how to make &or setup
+
+I cannot afford server & dont know how to make & or setup
+
+
 so
-IF your here trying to get access for my paid tweaks please show the support i ask
+
+
+(IF) your here trying to get access for my paid tweaks please show the support i ask
 and im sorry for the hastle in getting them.
 
 
