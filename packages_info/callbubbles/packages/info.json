@@ -1,0 +1,22 @@
+{
+  "name": "callbubbles",
+  "package": "com.3xtc.callbubbles",
+  "author": "ɛvɪɗɛηт",
+  "version": "2.6.7",
+  "dependency": "mobilesubstrate, com.3xtc.libswift4",
+  "minOSVersion": "13.0",
+  "maxOSVersion": "14.2.0",
+  "otheriOS": "untested",
+  "description": "<div>callbubbles caller UI. <br> <br> • callbubbles will change your callerUI to a moveable bubble, similar to chatbubbles but for calls .</div>",
+  "changelog": {
+    "2.6.7": [
+      "."
+    ]
+  },
+  "screenshots": {
+    "callbubbles1.png": "",
+    "callbubbles2.png": "",
+    "callbubbles3.png": ""
+  },
+  "links": {}
+}

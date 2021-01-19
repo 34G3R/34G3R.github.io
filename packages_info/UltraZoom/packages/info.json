@@ -1,0 +1,22 @@
+{
+  "name": "UltraZoom",
+  "package": "com.3xtc.ultrazoom",
+  "author": "ɛvɪɗɛηт",
+  "version": "2.6.7",
+  "dependency": "mobilesubstrate",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "14.2.0",
+  "otheriOS": "untested",
+  "description": "<div>UltraZoom.<br> <br> • Zoom your camera like SSN20ULTRA.</div>",
+  "changelog": {
+    "2.6.7": [
+      "initial release."
+    ]
+  },
+  "screenshots": {
+    "UltraZoom1.png": "",
+    "UltraZoom2.png": "",
+    "UltraZoom3.png": ""
+  },
+  "links": {}
+}
