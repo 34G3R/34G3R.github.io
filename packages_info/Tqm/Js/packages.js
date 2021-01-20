@@ -194,3 +194,7 @@ $(document).ready(function () {
         return results === null ? null : decodeURIComponent(results[1].replace(/\+/g, " "));
     }
 });
+
+function toggleShareMenu(){
+    document.getElementsByClassName("share-menu")[0].classList.toggle("active");
+  }
