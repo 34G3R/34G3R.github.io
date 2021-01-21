@@ -67,7 +67,7 @@ $(document).ready(function () {
 
     var dPackage = getParameterByName("p");
     if (!dPackage) {
-        $(".package-error").text("Data code text by 3xtc !").css("display", "block");
+        $(".package-error").text("Ignore Is For ON Iphone").css("display", "block");
         $(".package-info").css("display", "none");
         $(".package-name").text("Not Found");
         return;
