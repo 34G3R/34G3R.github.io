@@ -13,7 +13,7 @@ body {
 header {
     text-align: center;
     background: none;
-    color: #242424;
+    color: #ffffff;
 }
 
 header .intromsg {
@@ -110,7 +110,7 @@ footer .footer-above {
     line-height: 45px;
 }
 body {
-    background:#383535;
+    background:#ffffff;
   }
   .center {
     position:absolute;
@@ -156,7 +156,7 @@ body {
     width:75px;
     height:75px;
     background:#eee8e8;
-    color:#222;
+    color:rgb(255, 255, 255);
     border-radius:50%;
     cursor:pointer;
     text-align:center;
