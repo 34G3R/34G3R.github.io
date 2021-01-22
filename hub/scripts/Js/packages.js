@@ -73,7 +73,7 @@ $(document).ready(function () {
         return;
     }
 
-    $.getJSON("" + dPackage + ".json", function (data) {
+    $.getJSON("hub/" + dPackage + ".json", function (data) {
         document.title = data.name + " by " + data.author;
 
 
