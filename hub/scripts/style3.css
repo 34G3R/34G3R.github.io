@@ -711,3 +711,8 @@ header .nav-label {
   padding-left: .125rem;
 }
   
+#fixedbutton {
+  position: fixed;
+  bottom: 560px;
+  right: 1000px; 
+}
