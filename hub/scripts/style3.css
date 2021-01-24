@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(255, 255, 255)!important;
+  background-color: rgb(0, 0, 0)!important;
   text-align: center;
   width: inital!important;
   min-height: 100%;
@@ -43,7 +43,7 @@ body panel panel-header label {
 }
 
 body panel panel-body {
-  color: rgb(255, 255, 255);
+  color: rgb(214, 214, 214);
   background: rgb(0, 0, 0);
   box-shadow: none;
   border-radius: 0;
