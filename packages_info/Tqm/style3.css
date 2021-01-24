@@ -757,3 +757,33 @@ header .nav-label {
 .fixed-btn:active{
   box-shadow: 3px 3px #5858584f;
 }
+
+body
+{
+	background: #cbc3a6;
+	color: #37445D;
+	font: 15px/20px Verdana, Helvetica, Sans-Serif;
+}
+
+.center
+{
+	text-align: center;
+}
+
+input[type="button"]
+{
+	background-color: #fff;
+	background-image: none;
+	border: 1px solid #000;
+	border-radius: 8px;
+	color: #000;
+	font-size: 16px;
+	padding: 5px 8px;
+}
+    
+ input[type="button"]:hover
+{
+	background-color: #666;
+	background-image: none;
+	color: #fff;
+}
