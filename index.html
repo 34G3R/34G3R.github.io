@@ -24,46 +24,48 @@
   <div>
 
 
-<!--
 
-
-
-<head>
-  <title>A static website</title>
  
   <!-- include the widget -->
   <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script> 
-</head>
-<body>
-
-  <div data-netlify-identity-menu>
 
 
+  <!-- Add a menu:
+   Log in / Sign up - when the user is not logged in
+   Username / Log out - when the user is logged in
+  -->
 
-    <a target="_blank" class="fixed-btn" class="support-block text-grey-dark cursor-pointer bg-gray-lighter rounded text-sm py-7px-3 py-1 font-medium mt-3 flex-grow no-underline flex-inline mx-2 xs:w-full sm:w-1/3 lg:w-1/3 md:w-1/3 w-full overflow-hidden" style="border-radius: 25px;  background-color: #161515;">
-      <div class="flex px-3 py-1 items-center justify-between">
-  
-        <i class="fas  text-xl flex-shrink mr-3" aria-hidden="true"></i>
-        <div class="flex-grow">
-      
-      <div class="text-md font-medium leading" style="line-height: 1.3; margin-top:-2px; color:rgb(240, 230, 230)"><i>Go Back To</i></div>
-      <div class="text-xs font-medium leading-tight opacity-75" style="color:rgb(255, 255, 255)"><i>Main Menu</i></div>
+
+
+
+  <!-- Add a simpler button:
+    Simple button that will open the modal.
+  -->
+  <head>
+  <body>
+
+    <a target="_blank" href="data-netlify-identity-menu" class="support-block text-grey-dark cursor-pointer bg-gray-lighter rounded text-sm py-7px-3 py-1 font-medium mt-3 flex-grow no-underline flex-inline mx-2 xs:w-full sm:w-1/3 lg:w-1/3 md:w-1/3 w-full overflow-hidden" style="border-radius: 10px;  background-color: #E8E8E8;">
+      <div class="flex px-3 py-1 items-center justify-between"><div class="w-10 h-10 overflow-hidden rounded-full block" style="border: 1px solid #f5f7fa; background-color: #52606d; background-image: url(https://3xtc.netlify.com/icons/pay.png); background-size: cover; background-repeat: no-repeat; background-position: center center;">
       </div>
-      </div>
-      </a>
+      <i class=" text-x1  flex-shrink mr-3" aria-hidden="true"></i>
+      <div class="flex-grow">
+    
+    
+    <div class="text-md font-medium leading" style="line-height: 1.3; margin-top:-2px;">Paypal</div>
+    <div class="text-xs font-medium leading-tight opacity-75">Donate</div>
+    </div>
+    </div>
+    </a>
+
+
+    <div
+    data-netlify-identity-menu
+    class="btn-outline"> <div style="text-align:center;"><img id='repoIcon' src="icons/TweakHub.png"><h6>🖖Welcome🤝<br> Pick Your Store</h6></div>
   </div>
- 
-
-  <div data-netlify-identity-button>Login with Netlify Identity</div>
+  </div>
 </body>
-
-
-
-
-
-
--->
-
+</head>
+    
 
 
   </ul>
