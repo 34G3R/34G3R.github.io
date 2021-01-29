@@ -67,7 +67,7 @@ $(document).ready(function () {
 
     var dPackage = getParameterByName("p");
     if (!dPackage) {
-        $(".package-error").text("Ignore Is For ON Iphone").css("display", "block");
+        $(".package-error").text("Ignore Is For In Cydia").css("display", "block");
         $(".package-info").css("display", "none");
         $(".package-name").text("notfound");
         return;
