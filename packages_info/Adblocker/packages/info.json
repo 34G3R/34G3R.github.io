@@ -1,9 +1,9 @@
 {
   "name": "Adblocker",
-  "package": "com.3xtc.Adblocker",
+  "package": "com.3xtc.AdBlocker",
   "author": "ɛvɪɗɛηт",
   "version": "2.6.7",
-  "dependency": "mobilesubstrate",
+  "dependency": "mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)",
   "minOSVersion": "10.0",
   "maxOSVersion": "14.3.0",
   "otheriOS": "untested",
