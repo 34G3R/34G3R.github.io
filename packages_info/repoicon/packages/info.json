@@ -1,0 +1,19 @@
+{
+  "name": "repoicon",
+  "package": "com.3xtc.repoicon",
+  "author": "ɛvɪɗɛηт",
+  "version": "1.0",
+  "minOSVersion": "10.0",
+  "maxOSVersion": "14.3.0",
+  "otheriOS": "untested",
+  "description": "<div><h3>• Icon •</h3><br> <br>• Install if the repo icon isn't loading</div>",
+  "changelog": {
+    "1.0": [
+      "initial release"
+    ]
+  },
+  "screenshots": {
+    "repoicon.png": ""
+  },
+  "links": {}
+}
