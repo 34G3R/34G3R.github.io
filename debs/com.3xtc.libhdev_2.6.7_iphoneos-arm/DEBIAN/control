@@ -1,0 +1,10 @@
+Package: com.3xtc.libhdev
+Version: 2.6.7
+Section: System
+Maintainer: 3xtc
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
+Architecture: iphoneos-arm
+Installed-Size: 380
+Name: libhdev
+Author: ɛvɪɗɛηт
+Tag: role::developer
