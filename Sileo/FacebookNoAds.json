@@ -36,15 +36,15 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.netlify.com/packages_info/screenshots/Facebook No Ads1.png"
+              "url": "https://3xtc.netlify.com/packages_info/screenshots/FacebookNoAds1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.netlify.com/packages_info/screenshots/Facebook No Ads2.png"
+              "url": "https://3xtc.netlify.com/packages_info/screenshots/FacebookNoAds2.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.netlify.com/packages_info/screenshots/Facebook No Ads3.png"
+              "url": "https://3xtc.netlify.com/packages_info/screenshots/FacebookNoAds3.png"
             }
           ]
         },
@@ -81,7 +81,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS11.0 - 14.2.0",
+          "text": "iOS10.0 - 14.4.4",
           "title": "Support"
         },
         {
@@ -91,7 +91,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "269696 Bytes",
+          "text": "(269696  Bytes",
           "title": "Capacity"
         },
         {
@@ -158,7 +158,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>lyrics.</li>\n</ul>",
+          "markdown": "<ul>\n<li>FaceBookTweaksAIO.</li>\n</ul>",
           "useRawFormat": true
         }
       ]
