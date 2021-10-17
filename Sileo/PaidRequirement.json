@@ -1,7 +1,7 @@
 
 {
   "class": "DepictionTabView",
-  "headerImage": "https://3xtc.netlify.com/icons/logo.png",
+  "headerImage": "https://3xtc.github.io/icons/logo.png",
   "minVersion": "0.3",
   "tabs": [
     {
@@ -36,7 +36,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.netlify.com/packages_info/screenshots/PaidRequirement.png"
+              "url": "https://3xtc.github.io/packages_info/screenshots/PaidRequirement.png"
             }
           ]
         },
@@ -104,9 +104,9 @@
           "openExternal": true
         },
         {
-          "action": "https://twitter.com/34G3R_IIVIVII",
+          "action": "https://twitter.com/3xtc_IIVIVII",
           "class": "DepictionTableButtonView",
-          "title": "Follow Twitter (@34G3R_IIVIVII)",
+          "title": "Follow Twitter (@3xtc_IIVIVII)",
           "openExternal": true
         },
         {
@@ -124,7 +124,7 @@
           "spacing": 40
         },
         {
-          "URL": "https://3xtc.netlify.com/CydiaIcon.png",
+          "URL": "https://3xtc.github.io/CydiaIcon.png",
           "alignment": 1,
           "class": "DepictionImageView",
           "cornerRadius": 0,
