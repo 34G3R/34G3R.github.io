@@ -1,7 +1,7 @@
 
 {
   "class": "DepictionTabView",
-  "headerImage": "https://3xtc.netlify.com/icons/logo.png",
+  "headerImage": "https://34G3R.netlify.com/icons/logo.png",
   "minVersion": "0.3",
   "tabs": [
     {
@@ -36,15 +36,15 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.netlify.com/packages_info/screenshots/Adblocker1.png"
+              "url": "https://34G3R.netlify.com/packages_info/screenshots/Adblocker1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.netlify.com/packages_info/screenshots/Adblocker2.png"
+              "url": "https://34G3R.netlify.com/packages_info/screenshots/Adblocker2.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.netlify.com/packages_info/screenshots/Adblocker3.png"
+              "url": "https://34G3R.netlify.com/packages_info/screenshots/Adblocker3.png"
             }
           ]
         },
@@ -112,9 +112,9 @@
           "openExternal": true
         },
         {
-          "action": "https://twitter.com/cFD45995540",
+          "action": "https://twitter.com/34G3R_IIVIVII",
           "class": "DepictionTableButtonView",
-          "title": "Follow Twitter (@cFD45995540)",
+          "title": "Follow Twitter (@34G3R_IIVIVII)",
           "openExternal": true
         },
         {
@@ -132,7 +132,7 @@
           "spacing": 40
         },
         {
-          "URL": "https://3xtc.netlify.com/CydiaIcon.png",
+          "URL": "https://34G3R.netlify.com/CydiaIcon.png",
           "alignment": 1,
           "class": "DepictionImageView",
           "cornerRadius": 0,
