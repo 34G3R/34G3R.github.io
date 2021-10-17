@@ -2,14 +2,14 @@
   "name": "AFSocial",
   "package": "com.3xtc.afsocial",
   "author": "ɛvɪɗɛηт",
-  "version": "1.2.2",
+  "version": "2.6.7",
   "dependency": "mobilesubstrate",
-  "minOSVersion": "13.0",
-  "maxOSVersion": "14.2.",
+  "minOSVersion": "11.0",
+  "maxOSVersion": "14.2.0",
   "otheriOS": "untested",
   "description": "<div>Social App's Tweaks. <br> <br> • Get AMAZING tweaks for your favourite social apps. <br> <br> Facebook Twitter messenger & more: no more read receipts no ads download media straight to your iPhone and extras!!.</div>",
   "changelog": {
-    "1.2.2": [
+    "2.6.7": [
       "Fixed safari crashing when going into fullscreen while watching videos etc ."
     ]
   },

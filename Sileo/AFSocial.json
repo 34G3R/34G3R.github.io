@@ -76,12 +76,12 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "1.2.2",
+          "text": "2.6.7",
           "title": "Version"
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS13.0 - 14.2",
+          "text": "iOS11.0 - 14.2.0",
           "title": "Support"
         },
         {
@@ -91,7 +91,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "4.02 MB",
+          "text": "3437526 Bytes",
           "title": "Capacity"
         },
         {
