@@ -1,7 +1,7 @@
 
 {
   "class": "DepictionTabView",
-  "headerImage": "https://3xtc.netlify.com/icons/logosileo.png",
+  "headerImage": "https://3xtc.github.io/icons/logosileo.png",
   "minVersion": "0.3",
   "tabs": [
     {
@@ -36,19 +36,19 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.netlify.com/packages_info/screenshots/chatbubbles1.png"
+              "url": "https://3xtc.github.io/packages_info/screenshots/chatbubbles1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.netlify.com/packages_info/screenshots/chatbubbles2.png"
+              "url": "https://3xtc.github.io/packages_info/screenshots/chatbubbles2.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.netlify.com/packages_info/screenshots/chatbubbles3.png"
+              "url": "https://3xtc.github.io/packages_info/screenshots/chatbubbles3.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.netlify.com/packages_info/screenshots/chatbubbles4.png"
+              "url": "https://3xtc.github.io/packages_info/screenshots/chatbubbles4.png"
             }
           ]
         },
@@ -116,9 +116,9 @@
           "openExternal": true
         },
         {
-          "action": "https://twitter.com/34G3R_IIVIVII",
+          "action": "https://twitter.com/cFD45995540",
           "class": "DepictionTableButtonView",
-          "title": "Follow Twitter (@34G3R_IIVIVII)",
+          "title": "Follow Twitter (@cFD45995540)",
           "openExternal": true
         },
         {
@@ -136,7 +136,7 @@
           "spacing": 40
         },
         {
-          "URL": "https://3xtc.netlify.com/CydiaIcon.png",
+          "URL": "https://3xtc.github.io/CydiaIcon.png",
           "alignment": 1,
           "class": "DepictionImageView",
           "cornerRadius": 0,
