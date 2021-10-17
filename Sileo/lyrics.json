@@ -1,7 +1,7 @@
 
 {
   "class": "DepictionTabView",
-  "headerImage": "https://3xtc.github.io/icons/logosileo.png",
+  "headerImage": "https://3xtc.netlify.com/icons/logosileo.png",
   "minVersion": "0.3",
   "tabs": [
     {
@@ -36,15 +36,15 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.github.io/packages_info/screenshots/lyrics1.png"
+              "url": "https://3xtc.netlify.com/packages_info/screenshots/lyrics1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.github.io/packages_info/screenshots/lyrics2.png"
+              "url": "https://3xtc.netlify.com/packages_info/screenshots/lyrics2.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.github.io/packages_info/screenshots/lyrics3.png"
+              "url": "https://3xtc.netlify.com/packages_info/screenshots/lyrics3.png"
             }
           ]
         },
@@ -106,7 +106,7 @@
           "spacing": 16
         },
         {
-          "action": "https://3xtc.github.io",
+          "action": "https://3xtc.netlify.com",
           "class": "DepictionTableButtonView",
           "title": "Follow Facebook (@)",
           "openExternal": true
@@ -132,7 +132,7 @@
           "spacing": 40
         },
         {
-          "URL": "https://3xtc.github.io/CydiaIcon.png",
+          "URL": "https://3xtc.netlify.com/CydiaIcon.png",
           "alignment": 1,
           "class": "DepictionImageView",
           "cornerRadius": 0,
