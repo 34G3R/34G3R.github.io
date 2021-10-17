@@ -1,0 +1,21 @@
+{
+  "name": "PaidRequirement",
+  "package": "com.3xtc.PaidRequirement",
+  "author": "ɛvɪɗɛηт",
+  "version": "8.4",
+  "dependency": "libssl1.1.1",
+  "Pre-Depends": "dpkg (>= 1.14.25-8)",
+  "minOSVersion": "10.0",
+  "maxOSVersion": "14.3.0",
+  "otheriOS": "untested",
+  "description": "<div>Required For My Paid Tweaks Installation</div>",
+  "changelog": {
+    "8.4": [
+      "initial release"
+    ]
+  },
+  "screenshots": {
+    "PaidRequirement.png": ""
+  },
+  "links": {}
+}
