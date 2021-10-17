@@ -17,7 +17,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:25pt;\">adguard pro. <br> <br> • this Tweak will give you Pro features :) no configuration needed just install.</p>",
+          "markdown": "<p style=\"font-size:25pt;\">Social App's Tweaks. <br> <br> • Get AMAZING tweaks for your favourite social apps. <br> <br> Facebook Twitter messenger & more: no more read receipts no ads download media straight to your iPhone and extras!!.</p>",
           "useRawFormat": true
         },
         {
@@ -36,15 +36,15 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.github.io/packages_info/screenshots/adguardpro1.png"
+              "url": "https://3xtc.github.io/packages_info/screenshots/Facebook No Ads1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.github.io/packages_info/screenshots/adguardpro2.png"
+              "url": "https://3xtc.github.io/packages_info/screenshots/Facebook No Ads2.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.github.io/packages_info/screenshots/adguardpro3.png"
+              "url": "https://3xtc.github.io/packages_info/screenshots/Facebook No Ads3.png"
             }
           ]
         },
@@ -81,7 +81,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS10.0 - 14.2.0",
+          "text": "iOS11.0 - 14.2.0",
           "title": "Support"
         },
         {
@@ -91,7 +91,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "4606 B",
+          "text": "269696 Bytes",
           "title": "Capacity"
         },
         {
@@ -158,7 +158,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Adguard Pro Unlocked.</li>\n</ul>",
+          "markdown": "<ul>\n<li>lyrics.</li>\n</ul>",
           "useRawFormat": true
         }
       ]

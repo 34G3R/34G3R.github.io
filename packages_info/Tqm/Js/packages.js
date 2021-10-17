@@ -67,9 +67,9 @@ $(document).ready(function () {
 
     var dPackage = getParameterByName("p");
     if (!dPackage) {
-        $(".package-error").text("Ignore Is For In Cydia").css("display", "block");
+        $(".package-error").text("Data code text by 3xtc !").css("display", "block");
         $(".package-info").css("display", "none");
-        $(".package-name").text("notfound");
+        $(".package-name").text("Not Found");
         return;
     }
 
@@ -167,8 +167,8 @@ $(document).ready(function () {
         var links = data.links;
         var extra = {
             "<img class=\"icon\" src=\"icons/twitter.png\"><span>Find me on Twitter (@cFD45995540)</span>": "https://twitter.com/cFD45995540",
-            "<img class=\"icon\" src=\"icons/email.png\"><span>Send me an email</span>": "mailto:3xt_c@toke.com@gmail.com",
-            "<img class=\"icon\" src=\"icons/like.png\"><span>Buy me a &#x1F37A; via <span style=\"font-style:italic;font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal</strong></span></span>": "https://www.paypal.com/donate?hosted_button_id=Z8CNBVSACFU86"
+            "<img class=\"icon\" src=\"icons/email.png\"><span>Send me an email</span>": "mailto:anhminh311105@gmail.com",
+            "<img class=\"icon\" src=\"icons/like.png\"><span>Buy me a &#x1F37A; via <span style=\"font-style:italic;font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal</strong></span></span>": "https://paypal.me/tranquangminh2202"
         };
         $.extend(links, extra);
         var lKeys = Object.keys(links);
@@ -194,7 +194,3 @@ $(document).ready(function () {
         return results === null ? null : decodeURIComponent(results[1].replace(/\+/g, " "));
     }
 });
-
-function toggleShareMenu(){
-    document.getElementsByClassName("share-menu")[0].classList.toggle("active");
-  }
