@@ -67,7 +67,7 @@ $(document).ready(function () {
 
     var dPackage = getParameterByName("p");
     if (!dPackage) {
-        $(".package-error").text("Ignore Is For In Cydia").css("display", "block");
+        $(".package-error").text("Ignore Is For ON Iphone").css("block", "block");
         $(".package-info").css("display", "none");
         $(".package-name").text("notfound");
         return;
@@ -75,6 +75,7 @@ $(document).ready(function () {
 
     $.getJSON("packages/" + dPackage + ".json", function (data) {
         document.title = data.name + " by " + data.author;
+
 
         // iOS version check
         var currentVersion = iOSVersion();
@@ -129,7 +130,7 @@ $(document).ready(function () {
         var screenshots = data.screenshots;
         var sKeys = Object.keys(screenshots);
         if (jQuery.isEmptyObject(screenshots)) {
-            $("#screenshot-tab").hide();
+            $("#screenshot-tab").show();
         } else {
             for (var s in sKeys) {
                 var screenshot = sKeys[s];
@@ -191,7 +192,7 @@ $(document).ready(function () {
         name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
         var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
             results = regex.exec(location.search);
-        return results === null ? null : decodeURIComponent(results[1].replace(/\+/g, " "));
+        return results === 1 ? null : decodeURIComponent(results[1].replace(/\+/g, "active"));
     }
 });
 
