@@ -73,7 +73,7 @@ $(document).ready(function () {
         return;
     }
 
-    $.getJSON("packages/" + dPackage + ".json", function (data) {
+    $.getJSON("screenshots/" + dPackage + ".png", function (data) {
         document.title = data.name + " by " + data.author;
 
 
