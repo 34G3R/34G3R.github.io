@@ -5,7 +5,7 @@
   "version": "2.6.7",
   "dependency": "mobilesubstrate, com.3xtc.libswift4",
   "minOSVersion": "13.0",
-  "maxOSVersion": "14.2.0",
+  "maxOSVersion": "14.8",
   "otheriOS": "untested",
   "description": "<div>callbubbles caller UI. <br> <br> • callbubbles will change your callerUI to a moveable bubble, similar to chatbubbles but for calls .</div>",
   "changelog": {

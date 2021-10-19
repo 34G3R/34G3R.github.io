@@ -5,7 +5,7 @@
   "version": "2.6.7",
   "dependency": "mobilesubstrate, com.3xtc.libhdev (>= 4.5.0), firmware (>= 10)",
   "minOSVersion": "11.0",
-  "maxOSVersion": "14.2.0",
+  "maxOSVersion": "14.8",
   "otheriOS": "untested",
   "description": "<div>The best tweaks for Messenger app.<br> <br> no more seen , no more ads , save storys,images & more </div>",
   "changelog": {

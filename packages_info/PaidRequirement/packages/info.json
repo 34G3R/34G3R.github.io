@@ -6,7 +6,7 @@
   "dependency": "libssl1.1.1",
   "Pre-Depends": "dpkg (>= 1.14.25-8)",
   "minOSVersion": "10.0",
-  "maxOSVersion": "14.7.0",
+  "maxOSVersion": "14.8",
   "otheriOS": "untested",
   "description": "<div>Required For My Paid Tweaks Installation</div>",
   "changelog": {

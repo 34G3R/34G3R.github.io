@@ -5,7 +5,7 @@
   "version": "2.6.7",
   "dependency": "mobilesubstrate, preferenceloader, firmware (>= 10)",
   "minOSVersion": "11.0",
-  "maxOSVersion": "14.2.0",
+  "maxOSVersion": "14.8",
   "otheriOS": "untested",
   "description": "<div>needed for tweaks to work</div>",
   "changelog": {

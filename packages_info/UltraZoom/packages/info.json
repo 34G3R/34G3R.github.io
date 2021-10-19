@@ -5,7 +5,7 @@
   "version": "2.6.7",
   "dependency": "mobilesubstrate",
   "minOSVersion": "11.0",
-  "maxOSVersion": "14.2.0",
+  "maxOSVersion": "14.8",
   "otheriOS": "untested",
   "description": "<div>UltraZoom.<br> <br> • Zoom your camera like SSN20ULTRA.</div>",
   "changelog": {

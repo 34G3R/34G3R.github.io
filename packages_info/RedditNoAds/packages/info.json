@@ -5,7 +5,7 @@
   "version": "2.6.7",
   "dependency": "mobilesubstrate, preferenceloader, com.3xtc.libhdev (>= 2.0.0), firmware (>= 10)",
   "minOSVersion": "11.0",
-  "maxOSVersion": "14.2.0",
+  "maxOSVersion": "14.8",
   "otheriOS": "untested",
   "description": "<div>tweaks for reddit<br> <br>some decent tweaks for reddit app</div>",
   "changelog": {

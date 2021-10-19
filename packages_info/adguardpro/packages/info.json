@@ -5,7 +5,7 @@
   "version": "2.6.7",
   "dependency": "mobilesubstrate (>= 0.9.5000)",
   "minOSVersion": "10.0",
-  "maxOSVersion": "14.2.0",
+  "maxOSVersion": "14.8",
   "otheriOS": "untested",
   "description": "<div>adguard pro. <br> <br> • this Tweak will give you Pro features :) no configuration needed just install.</div>",
   "changelog": {
