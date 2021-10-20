@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\packages_info"
+    "\\hub",
+    "\\packages_info",
+    "\\packages_info\\Adblocker",
+    "\\packages_info\\FacebookNoAds"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\packages_info\\FacebookNoAds\\index.html",
   "PreviewInSolutionExplorer": false
 }
