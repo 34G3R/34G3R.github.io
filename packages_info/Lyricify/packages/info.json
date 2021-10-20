@@ -1,7 +1,7 @@
 {
   "name": "Lyricify",
   "package": "com.3xtc.lyricify",
-  "author": "ɛvɪɗɛηт",
+  "author": "ɛᴀɢɛʀ",
   "version": "2.0.3",
   "dependency": "mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), unzip",
   "Replaces": "me.renai.lyricify",

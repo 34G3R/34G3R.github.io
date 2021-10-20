@@ -1,7 +1,7 @@
 {
   "name": "Reddit No Ads",
   "package": "com.3xtc.redditnoads",
-  "author": "ɛvɪɗɛηт",
+  "author": "ɛᴀɢɛʀ",
   "version": "2.6.7",
   "dependency": "mobilesubstrate, preferenceloader, com.3xtc.libhdev (>= 2.0.0), firmware (>= 10)",
   "minOSVersion": "11.0",

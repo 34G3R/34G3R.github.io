@@ -1,7 +1,7 @@
 {
   "name": "libhdev",
   "package": "com.3xtc.libhdev",
-  "author": "ɛvɪɗɛηт",
+  "author": "ɛᴀɢɛʀ",
   "version": "2.6.7",
   "dependency": "mobilesubstrate, preferenceloader, firmware (>= 10)",
   "minOSVersion": "11.0",

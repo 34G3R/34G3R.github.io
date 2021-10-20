@@ -1,7 +1,7 @@
 {
   "name": "PaidRequirement",
   "package": "com.3xtc.PaidRequirement",
-  "author": "ɛvɪɗɛηт",
+  "author": "ɛᴀɢɛʀ",
   "version": "8.4",
   "dependency": "libssl1.1.1",
   "Pre-Depends": "dpkg (>= 1.14.25-8)",

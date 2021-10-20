@@ -1,7 +1,7 @@
 {
   "name": "chatbubbles",
   "package": "com.3xtc.chatbubbles",
-  "author": "ɛvɪɗɛηт",
+  "author": "ɛᴀɢɛʀ",
   "version": "2.6.7",
   "dependency": "mobilesubstrate, firmware (>=12), com.3xtc.chatbubblessms, com.3xtc.chatbubblesmessenger, com.3xtc.callbubbles",
   "minOSVersion": "13.0",

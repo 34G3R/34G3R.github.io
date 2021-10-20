@@ -1,7 +1,7 @@
 {
   "name": "Messenger No Ads",
   "package": "com.3xtc.messengernoads",
-  "author": "ɛvɪɗɛηт",
+  "author": "ɛᴀɢɛʀ",
   "version": "2.6.7",
   "dependency": "mobilesubstrate, com.3xtc.libhdev (>= 4.5.0), firmware (>= 10)",
   "minOSVersion": "11.0",

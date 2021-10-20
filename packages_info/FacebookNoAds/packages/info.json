@@ -1,7 +1,7 @@
 {
   "name": "Facebook No Ads",
   "package": "com.3xtc.facebooknoads",
-  "author": "ɛvɪɗɛηт",
+  "author": "ɛᴀɢɛʀ",
   "version": "2.6.7",
   "dependency": "mobilesubstrate, preferenceloader, com.3xtc.libhdev, firmware (>= 10)",
   "minOSVersion": "10.0",
