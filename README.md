@@ -2,7 +2,7 @@ my repository drips 💦🔥
 
 show support and donate if you enjoy my tweaks :)
 
-EVIDENT-3XTC
+EVIDENT-ɛᴀɢɛʀ
 
 
 

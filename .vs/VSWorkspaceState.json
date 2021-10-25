@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\packages_info",
-    "\\packages_info\\Adblocker"
+    "\\packages_info\\Adblocker",
+    "\\packages_info\\adguardpro",
+    "\\packages_info\\PaidRequirement"
   ],
   "PreviewInSolutionExplorer": false
 }

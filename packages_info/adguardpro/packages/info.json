@@ -1,6 +1,6 @@
 {
   "name": "Adguard Pro",
-  "package": "com.3xtc.adguardpro",
+  "package": "com.34G3R.adguardpro",
   "author": "ɛᴀɢɛʀ",
   "version": "2.6.7",
   "dependency": "mobilesubstrate (>= 0.9.5000)",

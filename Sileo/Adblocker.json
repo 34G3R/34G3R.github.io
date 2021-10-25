@@ -1,7 +1,7 @@
 
 {
   "class": "DepictionTabView",
-  "headerImage": "https://3xtc.github.io/icons/34G3R.png",
+  "headerImage": "https://34G3R.github.io/icons/34G3R.png",
   "minVersion": "0.3",
   "tabs": [
     {
@@ -36,15 +36,15 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.github.io/packages_info/screenshots/Adblocker1.png"
+              "url": "https://34G3R.github.io/packages_info/screenshots/Adblocker1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.github.io/packages_info/screenshots/Adblocker2.png"
+              "url": "https://34G3R.github.io/packages_info/screenshots/Adblocker2.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://3xtc.github.io/packages_info/screenshots/Adblocker3.png"
+              "url": "https://34G3R.github.io/packages_info/screenshots/Adblocker3.png"
             }
           ]
         },
@@ -132,7 +132,7 @@
           "spacing": 40
         },
         {
-          "URL": "https://3xtc.github.io/CydiaIcon.png",
+          "URL": "https://34G3R.github.io/CydiaIcon.png",
           "alignment": 1,
           "class": "DepictionImageView",
           "cornerRadius": 0,
