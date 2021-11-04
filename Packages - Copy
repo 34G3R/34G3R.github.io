@@ -1,0 +1,77 @@
+Package: com.34G3R.adguardpro
+Name: Adguard Pro
+Depends: mobilesubstrate (>= 0.9.5000) 
+Architecture: iphoneos-arm
+Description: Adguard pro Unlocked.
+Maintainer: 34G3R
+Author: ɛᴀɢɛʀ
+Section: Tweaks
+Version: 2.6.7
+Filename: ./debs/com.34G3R.adguardpro.deb
+Size: 4606
+Installed-Size: 136
+Icon: https://34G3R.github.io/packages_info/screenshots/adguardpro1.png
+Sileodepiction: https://34G3R.github.io/Sileo/adguardpro.json
+Depiction: https://34G3R.github.io/packages_info/adguardpro/?p=info
+MD5sum: a6c2b61999bef7ab2feccd7a73771e40
+SHA1: 5e33c53362298b565915d88031ef545ef2e9e30b
+SHA256: 3b5b43b2075954b5413b7462470eee11c40e03989da5d4bf3bb9061796e26823
+
+Package: com.34G3R.gtf
+Name: GET THAT FREE
+Depends: mobilesubstrate (>= 0.9.5000) 
+Architecture: iphoneos-arm
+Description: Get In App Purchases Free.
+Maintainer: ɛᴀɢɛʀ
+Author: ɛᴀɢɛʀ
+Section: Tweaks
+Version: 1.0
+Filename: ./debs/com.34G3R.gtf.deb
+Size: 6514
+Installed-Size: 200
+Icon: https://34G3R.github.io/packages_info/screenshots/gtf1.png
+Sileodepiction: https://34G3R.github.io/Sileo/getthatfree.json
+Depiction: https://34G3R.github.io/packages_info/getthatfree/?p=info
+MD5sum: 35af8645bb7a7976b37d320c47c88881
+SHA1: 3350cd42dae63061195d124247b0cf3eb93d90a5
+SHA256: 36ffe37c1bdf2f5591d5451648ea2387166aff200ca393a253a3214b871c03ab
+
+Package: com.34G3R.Adblocker
+Version: 2.6.7
+Section: Tweaks
+Maintainer: 34G3R
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16)
+Architecture: iphoneos-arm
+Filename: ./debs/com.34G3R.Adblocker_2.6.7_iphoneos-arm.deb
+Size: 198680
+Installed-Size: 752
+Description: Adblocker Pro TapMediaLtd
+Name: Adblocker TapMediaLtd
+Author: ɛᴀɢɛʀ
+Icon: https://34G3R.github.io/packages_info/screenshots/Adblocker1.png
+Sileodepiction: https://34G3R.github.io/Sileo/Adblocker.json
+Depiction: https://34G3R.github.io/packages_info/Adblocker/?p=info
+MD5sum: df7d7c0afd463f5fd3501862489dd723
+SHA1: a3e13d60db2e3a4355a3932afd6315a1feecaa73
+SHA256: cdb368f1c319120f926be0f51dc27c4d4f551939b0d2c94ae7da1b571f467b1a
+
+Package: com.34G3R.PaidRequirement
+Version: 8.4
+Section: Networking
+Maintainer: ɛᴀɢɛʀ
+Depends: libssl1.1.1
+Architecture: iphoneos-arm
+Filename: ./debs/PaidRequirement.deb
+Priority: important
+Size: 1995326
+Installed-Size: 10680
+Replaces: openssh
+Pre-Depends: dpkg (>= 1.14.25-8)
+Description: Required For My Paid Tweaks Installation
+Name: Paid Requirement
+Icon: https://34G3R.github.io/packages_info/screenshots/PaidRequirement.png
+Sileodepiction: https://34G3R.github.io/Sileo/PaidRequirement.json
+Depiction: https://34G3R.github.io/packages_info/PaidRequirement/?p=info
+MD5sum: c128ee1a3646eab55106e2cb6aa76f6b
+SHA1: 95cd63d65422ffed1fd731e214b526d9cc4be4b2
+SHA256: 36c9cdeb8d2217500c5d9cccabb9690a97dc3009dea0d86a0744d1c7920ad1d4
