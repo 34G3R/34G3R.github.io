@@ -1,0 +1,21 @@
+{
+  "name": "Get That Free",
+  "package": "com.34G3R.gtf",
+  "author": "ɛᴀɢɛʀ",
+  "version": "1.0",
+  "dependency": "mobilesubstrate (>= 0.9.5000)",
+  "minOSVersion": "10.0",
+  "maxOSVersion": "14.8",
+  "otheriOS": "untested",
+  "description": "<div>Get That Free. <br> <br> • This Tweak Will Give You Most In App Purchases Free :) No Configuration Needed Just Install.</div>",
+  "changelog": {
+    "1.0": [
+      "Free In App Purchases"
+    ]
+  },
+  "screenshots": {
+    "gtf1.png": "",
+    "gtf2.png": ""
+  },
+  "links": {}
+}
